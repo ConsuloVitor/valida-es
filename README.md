@@ -9,8 +9,17 @@
 - **Valida o CPF**
 - **Valida EMAIL**
 
-# Validação de CPF
+<h1 align="center">Validação De Cpf</h1>
+
 ![image](https://github.com/user-attachments/assets/f3b24a3f-a73b-4c58-8f8b-dd597a60c0a1)
+
+# VALIDAÇÃO DE CPF DIRETO NO JAVASCRIPT
+![Gravando 2024-07-26 101532](https://github.com/user-attachments/assets/336f0558-741e-4a32-b737-cf8ca3867b15)
+
+
+# VALIDAÇÃO DE EMAIL DIRETO NO JAVASCRIPT
+![Gravando 2024-07-26 104906](https://github.com/user-attachments/assets/baab9fe3-bc34-42ba-84aa-447fa41b752a)
+
 
 
 ## **Ferramentas Utilizadas**
