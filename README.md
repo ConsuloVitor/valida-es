@@ -1,3 +1,3 @@
-# VAlidações 
-## CPF
-## Email
+# Validações 
+**CPF**
+**Email**
