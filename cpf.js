@@ -24,7 +24,7 @@ function validarCPF(cpf){
     if(cpf.length !== 11 || /^(\d)\1{10}$/.test(cpf)){
         return false;
     }
-   
+
     let soma = 0;
     let resto;
  
